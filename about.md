@@ -4,5 +4,9 @@ title: About
 description: This page describes me.
 ---
 
-Yeomin Nam (yeominstall)  
-y.minn13@gmail.com
+![profile](/img/profile_320x320.png){: .box .profile}
+
+<center>
+Yeomin Nam (yeominstall) <br>  
+y.minn13@gmail.com <br><br>  
+</center>

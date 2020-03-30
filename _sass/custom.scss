@@ -1,3 +1,14 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
+.box {
+    width: 150px;
+    height: 150px; 
+    border-radius: 70%;
+    overflow: hidden;
+}
+.profile {
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+}
